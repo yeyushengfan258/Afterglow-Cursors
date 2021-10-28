@@ -31,5 +31,5 @@ This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
 ## Preview
-![Lyra](preview-1.png)
-![Lyra](preview-2.png)
+![Afterglow](view-1.png)
+![Afterglow](view-2.png)

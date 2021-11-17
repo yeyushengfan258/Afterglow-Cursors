@@ -10,11 +10,11 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/Afterglow-cursors" ]; then
-  rm -r "$DEST_DIR/Afterglow-cursors"
+if [ -d "$DEST_DIR/ArcStarry-cursors" ]; then
+  rm -r "$DEST_DIR/ArcStarry-cursors"
 fi
 
-cp -pr dist $DEST_DIR/Afterglow-cursors
+cp -pr dist $DEST_DIR/ArcStarry-cursors
 
 echo "Finished..."
 
